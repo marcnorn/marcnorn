@@ -1,11 +1,11 @@
-# Velkommen til min GitHub-profil
+# Velkommen til min GitHub
 
 Jeg er en motiveret jobsøgende med interesse inden for data science. Jeg har en baggrund inden for programmeringssprogene Python, Java, C#, HTML, CSS og JavaScript og søger muligheder inden for evt. data science-feltet, hvor jeg kan anvende mine færdigheder og videreudvikle dem.
 
 ## Om mig
 
 - 🎓 Jeg har en baggrund som Datamatiker.
-- 💼 Jeg har arbejdet med backend løsninger, web api'er og data science.
+- 💼 Jeg har arbejdet med front- og backend løsninger, web api'er og data science.
 - 🌱 Jeg er altid ivrig efter at lære nyt og forbedre mine færdigheder inden for data brug og relaterede områder.
 
 ## Mine Færdigheder
