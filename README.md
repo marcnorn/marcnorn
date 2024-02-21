@@ -17,7 +17,7 @@ Jeg er en motiveret jobsøgende med interesse inden for data science. Jeg har en
 
 ## Projekter
 
-Her er nogle af mine projekter, du kan udforske:
+Her er nogle af mine projekter:
 
 - [Projekt 1: Beskrivelse af projektet, teknologier, der blev brugt, og resultater]
 - [Projekt 2: Beskrivelse af projektet, teknologier, der blev brugt, og resultater]
