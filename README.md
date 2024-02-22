@@ -28,7 +28,7 @@ Du kan også finde mig på [Kaggle](https://www.kaggle.com/marcnorn), hvor jeg d
 
 ## Hvad jeg leder efter
 
-Jeg søger muligheder inden for backend og data science, hvor jeg kan anvende mine færdigheder og bidrage til spændende projekter. Jeg er åben for praktikpladser, deltids- eller fuldtidsstillinger.
+Jeg søger muligheder inden for backend eller data science, hvor jeg kan anvende mine færdigheder og bidrage til spændende projekter. Jeg er åben for et graduate programme, deltids- eller fuldtidsstillinger.
 
 Hvis du er interesseret i at samarbejde eller har nogle spændende muligheder, er jeg altid åben for en snak.
 
