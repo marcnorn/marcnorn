@@ -19,9 +19,9 @@ Jeg er en motiveret jobsøgende med interesse inden for data science. Jeg har en
 
 Her er nogle af mine projekter:
 
-- [Projekt 1: Beskrivelse af projektet, teknologier, der blev brugt, og resultater]
-- [Projekt 2: Beskrivelse af projektet, teknologier, der blev brugt, og resultater]
-- [Projekt 3: Beskrivelse af projektet, teknologier, der blev brugt, og resultater]
+- [Projekt 1]
+- [Projekt 2]
+- [Projekt 3]
 
 Du kan også finde mig på [Kaggle](https://www.kaggle.com/marcnorn), hvor jeg deltager i datavidenskabskonkurrencer og offentliggør mine projekter.
 
